@@ -1,8 +1,7 @@
 ![Web Developer](https://i.ibb.co/kgQV6Bd/Black-belt.jpg)
 ###### Hi there 👋, my name is <Sujon Sheikh>
-#### Web Developer
-
 Hello! I'm Sujon Sheikh, a passionate web developer. I develop web applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I am study bachelor in H.S.S govt collage from University at Magura Bangladesh. I am available for any kind of job opportunity that suits my interests.
+#### Web Developer
 
 Skills: REACT / JAVASCRIPT /NODE.JS/MONGODB/EXPRESS JS /HTML / CSS
 
