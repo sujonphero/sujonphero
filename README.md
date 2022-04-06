@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-# hey i am <𝕊𝕌𝕁𝕆ℕ 𝕊ℍ𝔼𝕀𝕂ℍ> 👨‍💻👨‍💻👨‍💻
+# hey, i am <𝙎𝙐𝙅𝙊𝙉 𝙎𝙃𝙀𝙄𝙆𝙃> 👨‍💻👨‍💻👨‍💻
 ## Web Developer
 ![Web Developer](https://i.ibb.co/kgQV6Bd/Black-belt.jpg)
 
